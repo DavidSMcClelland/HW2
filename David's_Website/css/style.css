@@ -1,0 +1,153 @@
+header {
+    height: 150px;
+    width: 100%;
+    border: 5px solid brown;
+    color: white;
+    background-color: brown;
+    text-align: center;
+    padding-top: 35px;
+    
+}
+
+nav a:any-link {
+  background-color: white;
+  color: brown;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.tab {
+    margin-left:  150px;
+    margin-right: 150px;
+}
+
+p.tabw {
+    font-size:     25px;
+    margin-left:  250px;
+    margin-right: 250px;
+}
+
+#intro {
+    text-align: center;
+    font-size: 25px;
+    margin: 0 250 0 250;
+}
+
+#gif {
+    text-align: center;
+    font-size: 25px;
+}
+
+#schedule {
+    text-align: center;
+}
+
+#underline {
+    border-bottom-style:solid;
+    border-bottom-width: 2px; 
+}
+#left {
+    float:left;
+    width: 49.9%;
+    margin-top: .25em;
+    margin-bottom: .33em;
+}
+
+#right {
+    float:right;
+    width: 49.9%;
+    text-align: right;
+}
+
+#signature {
+    font: 35px 'Great Vibes', Helvetica, sans-serif;
+}
+
+body {  
+
+  background-color: LightGoldenRodYellow;
+  border-left: 10px solid brown;  padding-left: 10px; 
+}
+
+div {
+    padding-top: 0px;
+    padding-left: 11px;
+}
+
+p.c { 
+  word-spacing: 4cm;
+}
+
+h3.reducedSpace {
+  line-height: 1;
+}
+
+
+#email {
+    text-align: center;
+    font-size: 1.5em;
+    margin-left: 650px;
+    margin-top: 200px;
+}
+
+#resume {
+  max-width: 1000px;    
+
+/*
+h1 { 
+    display: block;
+    font-size: 2em;
+    margin-top: 0.67em;
+    margin-bottom: 0.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h2 {
+    display: block;
+    font-size: 1.5em;
+    margin-top: 0.83em;
+    margin-bottom: 0.83em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h3 { 
+    display: block;
+    font-size: 1.17em;
+    margin-top: 1em;
+    margin-bottom: 0em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h4 { 
+    display: block;
+    margin-top: 1.33em;
+    margin-bottom: 1.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h5 { 
+    display: block;
+    font-size: .83em;
+    margin-top: 1.67em;
+    margin-bottom: 1.67em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+h6 { 
+    display: block;
+    font-size: .67em;
+    margin-top: 2.33em;
+    margin-bottom: 2.33em;
+    margin-left: 0;
+    margin-right: 0;
+    font-weight: bold;
+}
+    
+    */ 
